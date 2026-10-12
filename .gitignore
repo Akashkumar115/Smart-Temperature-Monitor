@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Node-RED generated files
+nodered/.config.nodes.json
+nodered/.config.users.json
+nodered/.sessions.json
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build output
+dashboard/dist/
